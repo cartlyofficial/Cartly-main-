@@ -1,1 +1,0 @@
-console.log("Cartly website loaded successfully!");
